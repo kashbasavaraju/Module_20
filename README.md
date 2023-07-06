@@ -10,9 +10,9 @@ Below are screenshots of sample interactions with the smart contract.
 
 ### Setup Accounts
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-edd4bdec7203de521fb6bd00e69014e09e0b09e638346170799dd15d2a1912f6)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Set%20Up%20Accounts_1.jpg)
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-b130c010022fa95d1d3dbe552a5748b75098fbfe5a27fa57b777a506ffb586e8)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Set%20Up%20Accounts_2.jpg)
 
 
 ### Deposit 10
@@ -25,32 +25,33 @@ Below are screenshots of sample interactions with the smart contract.
 
 ![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_15.jpg)
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-9fdf5f611ba828929a344107f8d07910160944101e03ca9268936ec60f322d4a)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_15_2.jpg)
 
 ### Deposit 20
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-2f0ba2cd151fc06e3c185378c6eab6f22a9bc09d71844d9c031ff49a9094b3f7)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_20.jpg)
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-ae254d70ec04b31e349b7413db1cf80e6b269c51606277a7e3336bba52873806)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_20_2.jpg)
+
 
 ### Withdraw 10
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-7a7bb8b4548aa7470ac1a5001ce2476970cfd467b46f31b6ceaeac8383941d14)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Withdraw_10.jpg)
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-1655788c540978aedc711f960355d1af6f1c165529bb8b42663404be320f8b0a)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Withdraw_10_2.jpg)
 
 ### Withdraw 20
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-ad000105d72a56ea6e595880e7216979242f0e5ac95a75f6fc5034fc866c80b6)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_20.jpg)
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-2597399c30b95e12bbe46144881905cc6011d67f975d4618753ef59b6d8fcccd)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_20_2.jpg)
 
 ### Last to Withdraw
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-d319913e43862b1519a38079c381e4f4f06ba4a26853d8e5fd534ee76d58efda)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Last_To_Withdraw.jpg)
 
 ### Last Withdrawal Account
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-19eeac32c12138a0dbe7607af33291185588f669af812141046804447384ad76)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Last_Withdrawal_Acct.jpg)
 
 
