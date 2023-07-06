@@ -17,13 +17,13 @@ Below are screenshots of sample interactions with the smart contract.
 
 ### Deposit 10
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-c90ddd70902c0820a9c472986b7a9bd8b17817d3aaa7d2362f9bbdd39bf2166d)
+![Alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_10.jpg)
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-96b270b8fc94a0e730e90993f773ad17b66c88507ff4f09cb2e4726f335b77b7)
+![Alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_10_2.jpg)
 
 ### Deposit 15
 
-![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-f77a2610323cae26627567a305ce9eb177ed524bf78fa0eaf5b25df94c050490)
+![alt text](https://github.com/kashbasavaraju/Module_20/blob/main/Screenshots/Deposit_15.jpg)
 
 ![alt text](https://github.com/kashbasavaraju/Module_20/commit/9cde22699472492bea95be207951284070dc266c#diff-9fdf5f611ba828929a344107f8d07910160944101e03ca9268936ec60f322d4a)
 
